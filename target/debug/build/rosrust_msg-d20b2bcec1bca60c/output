@@ -1,0 +1,3 @@
+cargo:rerun-if-env-changed=OUT_DIR
+cargo:rerun-if-env-changed=CMAKE_PREFIX_PATH
+cargo:rerun-if-env-changed=ROSRUST_MSG_PATH
